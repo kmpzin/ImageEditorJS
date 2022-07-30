@@ -15,7 +15,7 @@
 <b>First Step:</b> Cloning repository in your machine:
 
 ```
-git clone
+git clone git clone git@github.com:kmpzin/ImageEditorJS.git
 ```
 
 ## teamwork code
